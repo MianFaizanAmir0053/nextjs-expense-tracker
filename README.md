@@ -1,4 +1,5 @@
-View Live: https://nextjs-expense-tracker-beige.vercel.app
+View Live: https://expense-tracker-8bf75.web.app/
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
